@@ -1,0 +1,34 @@
+.container {
+max-width: 1200px;}
+.header {
+  background-color: #ffffff;
+  width: 100%;
+}
+.services {
+  width: 100%;
+}
+.service {
+background-color:;
+width: 23%;
+}
+.proj {
+width: 32%;
+background-color: #;
+}
+@media only screen and (max-width: 1000px) { .service {
+background-color: ;
+width: 45%
+}
+.proj {
+width: 90%;
+background-color: #;
+}
+@media only screen and (max-width: 600px) {
+.service {
+background-color: ;
+width: 100%;
+}
+.proj {
+width: 90%;
+background-color: #;
+}
